@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+    
+}
+body{
+    
+ height:500px;
+ background-color: #A0CED9;
+}
+.container{
+    display: flex;
+    justify-content: center;
+
+    background-color: #FCF5C7;
+     height:80%;
+    width: 25%
+}
+.form-container{
+    margin-top: 20px;
+}
+
